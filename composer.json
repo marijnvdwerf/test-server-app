@@ -1,0 +1,14 @@
+{
+  "name": "marijnvdwerf/test-server-app",
+  "require": {
+    "guzzlehttp/guzzle": "^6.0",
+    "doctrine/cache": "^1.4",
+    "twig/twig": "^1.18"
+  },
+  "authors": [
+    {
+      "name": "Marijn van der Werf",
+      "email": "marijn.vanderwerf@gmail.com"
+    }
+  ]
+}
